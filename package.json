@@ -6,5 +6,9 @@
   "repository": "git@github.com:cchampou/reasonable-stack.git",
   "author": "cchampou <clement@champouillon.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "bs-platform": "^8.2.0",
+    "global": "^4.4.0"
+  }
 }
