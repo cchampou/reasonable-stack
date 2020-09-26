@@ -105,3 +105,4 @@ dist
 
 # bs-platform
 lib
+*/**/*.bs.js
